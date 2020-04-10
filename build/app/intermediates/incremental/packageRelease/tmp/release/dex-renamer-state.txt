@@ -1,0 +1,4 @@
+#Thu Apr 09 22:12:53 KST 2020
+base.0=/Users/doylekim/AndroidStudioProjects/inappflutter/build/app/intermediates/transforms/r8/release/0/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

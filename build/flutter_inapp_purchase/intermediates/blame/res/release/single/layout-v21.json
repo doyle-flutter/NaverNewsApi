@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/doylekim/AndroidStudioProjects/inappflutter/build/flutter_inapp_purchase/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/doylekim/.gradle/caches/transforms-2/files-2.1/7faf2ad74a0b9932e38d86e684646e95/core-1.0.0/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/doylekim/AndroidStudioProjects/inappflutter/build/flutter_inapp_purchase/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/doylekim/.gradle/caches/transforms-2/files-2.1/7faf2ad74a0b9932e38d86e684646e95/core-1.0.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/doylekim/AndroidStudioProjects/inappflutter/build/flutter_inapp_purchase/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/doylekim/.gradle/caches/transforms-2/files-2.1/7faf2ad74a0b9932e38d86e684646e95/core-1.0.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/doylekim/AndroidStudioProjects/inappflutter/build/flutter_inapp_purchase/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/doylekim/.gradle/caches/transforms-2/files-2.1/7faf2ad74a0b9932e38d86e684646e95/core-1.0.0/res/layout-v21/notification_action.xml"
+    }
+]
